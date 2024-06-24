@@ -1,6 +1,8 @@
 # Panasonic Lumix DMC-FS50 EEPROM dump
 
-This is the EEPROM dump taken when the camera is in init mode. See [Service Manual](https://elektrotanya.com/panasonic_dmc-xs1.pdf/download.html), section 3.4.2, page 9.
+This is the EEPROM dump taken when the camera is in init mode.
+
+See [Service Manual](https://elektrotanya.com/panasonic_dmc-xs1.pdf/download.html), section 3.4.2, page 9.
 
 ## Notes
 
