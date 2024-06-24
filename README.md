@@ -4,7 +4,7 @@ Panasonic Lumix DMC-FS50 EEPROM dump
 - DMC-FS50 is similar to DMC-XS1
 - in some regions it is DMC-FH10
 
-This is the EEPROM dump taken when the camera is in init mode. See [Service Manual for DMC-XS1](https://elektrotanya.com/panasonic_dmc-xs1.pdf/download.html), section 3.4.2, page 9.
+This is the EEPROM dump taken when the camera is in init mode. See [Service Manual](https://elektrotanya.com/panasonic_dmc-xs1.pdf/download.html), section 3.4.2, page 9.
 
 ## Notes
 
